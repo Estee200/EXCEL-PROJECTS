@@ -86,3 +86,13 @@ Insight:
 - **Diane**, with **501 calls and ₦33,200**, has the **lowest purchase total**, which may signal the need for coaching or support in improving conversion rates.
 
 ***Question 7:** How do agents perform across various department.*
+
+
+
+1. ***Question 6:** How many calls did each agent handle, and how much revenue did they generate?*   
+
+![Screenshot 2025-05-21 at 3.33.49 PM.png](attachment:82030400-4b98-4c9c-915d-41a0fbe94155:Screenshot_2025-05-21_at_3.33.49_PM.png)
+
+**Insight:**
+
+- **Jim** handled the highest number of calls (**536**) and also achieved one of the top total purchase amounts (**₦35,560**), indicating both **efficiency and high conversion**.
