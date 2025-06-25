@@ -88,11 +88,6 @@ Insight:
 ***Question 7:** How do agents perform across various department.*
 
 
+# **THE DASHBOARD**
 
-1. ***Question 6:** How many calls did each agent handle, and how much revenue did they generate?*   
-
-![Screenshot 2025-05-21 at 3.33.49 PM.png](attachment:82030400-4b98-4c9c-915d-41a0fbe94155:Screenshot_2025-05-21_at_3.33.49_PM.png)
-
-**Insight:**
-
-- **Jim** handled the highest number of calls (**536**) and also achieved one of the top total purchase amounts (**₦35,560**), indicating both **efficiency and high conversion**.
+![Screenshot 2025-05-20 at 11.37.19 AM.png](attachment:c19145cc-b9cb-4fb9-87a2-e7f325610b78:Screenshot_2025-05-20_at_11.37.19_AM.png)
