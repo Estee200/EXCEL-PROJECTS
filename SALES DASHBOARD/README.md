@@ -87,7 +87,3 @@ Insight:
 
 ***Question 7:** How do agents perform across various department.*
 
-
-# **THE DASHBOARD**
-
-![Screenshot 2025-05-20 at 11.37.19 AM.png](attachment:c19145cc-b9cb-4fb9-87a2-e7f325610b78:Screenshot_2025-05-20_at_11.37.19_AM.png)
