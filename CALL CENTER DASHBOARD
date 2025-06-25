@@ -1,0 +1,106 @@
+PROBLEM STATEMENT
+
+Collecting call data is an easy procedure for many organizations, however, the data is stored in spreadsheets and is not readily accessible for interpretation. Business executives require a way to track performance, find bottlenecks, and act in an efficient manner visually. The Excel dashboard provided in this solution renders call logs into a decision-making management tool.
+
+**OBJECTIVES**
+
+After exploring the dataset, I crafted business questions to guide the analysis. These questions were inspired by patterns I observed in the data:
+
+1. **Key Metrics**
+    - Total number of calls
+    - Total amount generated
+    - Total duration of calls
+    - Average caller ratings
+    - Maximum call duration
+2. **Monthly Trend**: What’s the trend of calls over the months?
+3. **Weekly Volume**: How do calls vary across the days of the week?
+4. **Department Performance**: How many issues were resolved vs. unresolved across departments?
+5. **Satisfaction Levels**: What are the distribution and trends of customer satisfaction ratings?
+6. **Agent Contribution**: How many calls did each agent handle, and how much revenue did they generate?
+7. **Resolution Patterns by Agent**: How do agents perform across various departments?
+
+## Dataset Source
+
+I sourced the call center dataset from Kaggle. https://www.kaggle.com/datasets/ashishpandey5210/call-center-dataset which aligned well with a recent lecture I attended on customer service analytics.
+
+# DATA TRANSFORMATION (power query)
+
+1. Below is what it looks like after transformation after which i Close and Load.
+2. Created a “Duration Bucket”
+    - Short Call (< 120 seconds)
+    - Medium Call (120–300 seconds)
+    - Long Call (> 300 seconds)
+3. Created a second column converting durations to seconds (whole number). I did so to help me when grouping.
+4. Added a new column where I converted the Avg Duration Column to a true Duration type because it was giving “ERROR” alert when I tried changing it without conversion.
+5. Extracted Time only
+6. Renamed to Avg Duration
+- AvgTalkDuration column comprises of date and time, so I performed the following:
+- Filtered the “null” rows out.
+- Reinterpreted the Speed Ratings column as a proxy for **Purchase Amount**, given that no monetary field was available
+- Replaced “Y” and “N” with “YES” and “NO” in the Answered and Resolved column for clarity
+- Converted the Date column type to Date because it comprises of date and time.
+- Removed duplicate values from the Call ID column
+
+I took the data to power query for a transformation. Below is the summary of the cleaning and transformation steps I took:
+
+![Screenshot 2025-05-21 at 1.33.24 PM.png](attachment:adc6a7c7-d3c0-4e98-a9eb-46a57c37c7dd:13931279-2f21-4a63-86c8-8f5c7f5f4385.png)
+
+# Data Exploration & Insights
+
+1. *Question 1: Key metrics*
+
+![Screenshot 2025-05-21 at 3.03.28 PM.png](attachment:3a163b03-b4cb-4e77-b341-58ef408a13fa:d8524f2c-55c9-4787-a529-b8546370f63b.png)
+
+1. ***Question 2:** What is the trend of calls over the months?.*  
+
+![Screenshot 2025-05-21 at 3.03.28 PM.png](attachment:6c871acd-6adb-432d-a014-765a52ed4307:3be38bb7-980c-4fdd-bd7d-0812eb87d159.png)
+
+***Insight:***
+
+**March recorded the highest number of calls (175), slightly surpassing January (171) and February (168).**
+
+While the difference across months is not drastic, the **upward trend in March may indicate a seasonal increase in customer engagement or issues.**
+
+1. ***Questions 3:** How do calls vary across the days of the week?*
+
+![Screenshot 2025-05-21 at 3.03.28 PM.png](attachment:6247e16d-79a7-40a6-99ca-8e2fda2ee508:22d5881d-e81d-400a-9380-2c13f39b9dcc.png)
+
+***Insight:***
+
+**Wednesday recorded the highest number of calls (96), indicating a midweek peak in customer engagement or issues.**
+
+This suggests that **workload or support demand tends to be heaviest midweek,** especially compared to Thursday (51), which had the lowest
+
+1. ***Questions 4:** How many issues were resolved vs. unresolved across departments?*
+
+![Screenshot 2025-05-21 at 3.03.49 PM.png](attachment:d2ff4748-f523-4d71-b42f-729e63d5129a:29f3881e-fba4-43df-acb0-a6d7143df142.png)
+
+***Insight:***
+
+While the **Toaster department** had the **highest number of resolved calls** (99), a closer look at resolution **percentage** reveals that the **Air Conditioner department** is actually the **overall best performer**, with the **highest resolution rate of 92.2%**.
+
+This suggests that the **Air Conditioner team** is not only effective but also consistent in resolving a high proportion of issues, making them the most efficient team overall.
+
+1. **Question 5:** The satisfactory ratings level of the callers.   
+
+![Screenshot 2025-05-21 at 3.03.49 PM.png](attachment:b44fefc4-6462-416d-91db-ced6f15b4266:4758447b-d9e1-4f17-af9a-cc15fc4c925b.png)
+
+***Insight:***
+
+**Most customers rated their calls as either 3 or 4, with 4 receiving the highest count (159 out of 514 total ratings).** This suggests that **customers are generally satisfied** but **not overly impressed,** as the majority of scores fall just below the perfect rating of 5.
+
+1. ***Question 6:** How many calls did each agent handle, and how much revenue did they generate?*   
+
+![Screenshot 2025-05-21 at 3.33.49 PM.png](attachment:82030400-4b98-4c9c-915d-41a0fbe94155:Screenshot_2025-05-21_at_3.33.49_PM.png)
+
+**Insight:**
+
+- **Jim** handled the highest number of calls (**536**) and also achieved one of the top total purchase amounts (**₦35,560**), indicating both **efficiency and high conversion**.
+- **Martha** generated the **highest total purchase amount** (**₦35,717**) from **514 calls**, showing a strong **ability to close high-value sales.**
+- **Joe**, despite handling the **fewest calls (484)**, achieved a **relatively high purchase amount (₦34,358)**, which suggests **quality over quantity** in his interactions.
+- **Diane**, with **501 calls and ₦33,200**, has the **lowest purchase total**, which may signal the need for coaching or support in improving conversion rates.
+
+1. ***Question 7:** How do agents perform across various department.*
+
+![Screenshot 2025-05-21 at 3.39.03 PM.png](attachment:ef18d932-8bb8-44a7-a74f-d6bca381f888:Screenshot_2025-05-21_at_3.39.03_PM.png)
+
