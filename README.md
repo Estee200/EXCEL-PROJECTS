@@ -1,8 +1,9 @@
 # EXCEL-PROJECTS
 This repository showcases professional Excel projects focused on real-world data analysis and dashboard reporting. It features dynamic dashboards, Pivot Table insights, Power Query use, and interactive visuals demonstrating strong analytical and business intelligence skills in Excel.
 
-What’s Inside:
-i. Curated,real-world datasets from diverse domains 
+---
+##  What’s Inside:
+i. Real-world datasets from diverse domains 
 
 ii. Robust dashboards leveraging advanced Pivot Tables, Power Query, dynamic formulas, and named ranges
 
@@ -10,26 +11,27 @@ iii. Interactive visuals and KPI summaries tailored for decision-makers
 
 iv. Clean, modular Excel files ready for adaptation in corporate reporting and performance tracking
 
-📁 Projects Included
- 1. Call Center Performance Dashboard
+## Projects Included
 
-	i. Transforms call log data into a clean, interactive dashboard
+###  **Call Center Performance Dashboard
+
+i. Transforms call log data into a clean, interactive dashboard
 	
-	ii. Tracks key metrics like total calls, wait time, call resolution rate
+ii. Tracks key metrics like total calls, wait time, call resolution rate
 	
-	iii. Built with Pivot Tables, slicers, and conditional formatting
+iii. Built with Pivot Tables, slicers, and conditional formatting
 
 
- 3. Sales Analysis Report
+###  **Sales Analysis Report
 
-	i. Monthly and regional sales breakdown
+i. Monthly and regional sales breakdown
 	
-	ii. Highlights trends, top-performing products, and regions
+ii. Highlights trends, top-performing products, and regions
 	
-	iii. Designed for management reporting
+iii. Designed for management reporting
 
 
-⚙️ Tools & Features Used
+## Tools & Features Used
  1. Microsoft Excel (with Power Query & Pivot Tables)
 
  2. Conditional Formatting for highlighting insights
@@ -39,7 +41,7 @@ iv. Clean, modular Excel files ready for adaptation in corporate reporting and p
  4. Dynamic slicers for interactivity
     
 
-📲 These projects reflect professional-level Excel proficiency, ideal for:
+## These projects reflect professional-level Excel proficiency, ideal for:
 
 1. Stakeholder reporting
 
@@ -47,5 +49,5 @@ iv. Clean, modular Excel files ready for adaptation in corporate reporting and p
 
 3. Strategic decision-making support
 
-4. Showcasing readiness for data-driven business environments
+4. Showcasing readiness for data-driven business environments and more
 
