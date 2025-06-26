@@ -1,8 +1,9 @@
-PROBLEM STATEMENT
+## PROBLEM STATEMENT
 
 Collecting call data is an easy procedure for many organizations, however, the data is stored in spreadsheets and is not readily accessible for interpretation. Business executives require a way to track performance, find bottlenecks, and act in an efficient manner visually. The Excel dashboard provided in this solution renders call logs into a decision-making management tool.
 
-**OBJECTIVES**
+---
+## OBJECTIVES
 
 After exploring the dataset, I crafted business questions to guide the analysis. These questions were inspired by patterns I observed in the data:
 
@@ -19,11 +20,13 @@ After exploring the dataset, I crafted business questions to guide the analysis.
 6. **Agent Contribution**: How many calls did each agent handle, and how much revenue did they generate?
 7. **Resolution Patterns by Agent**: How do agents perform across various departments?
 
+---
 ## Dataset Source
 
 I sourced the call center dataset from Kaggle. https://www.kaggle.com/datasets/ashishpandey5210/call-center-dataset which aligned well with a recent lecture I attended on customer service analytics.
 
-# DATA TRANSFORMATION (power query)
+---
+## DATA TRANSFORMATION (power query)
 
 1. Created a “Duration Bucket”
     - Short Call (< 120 seconds)
@@ -42,7 +45,7 @@ I sourced the call center dataset from Kaggle. https://www.kaggle.com/datasets/a
 
 I took the data to power query for a transformation. Below is the summary of the cleaning and transformation steps I took:
 
-# Data Exploration & Insights
+### **Data Exploration & Insights**
 
 ***Question 1: Key metrics*
 
