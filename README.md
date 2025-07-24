@@ -1,53 +1,49 @@
 # EXCEL-PROJECTS
-This repository showcases professional Excel projects focused on real-world data analysis and dashboard reporting. It features dynamic dashboards, Pivot Table insights, Power Query use, and interactive visuals demonstrating strong analytical and business intelligence skills in Excel.
+
+This repository showcases **professional Excel projects** focused on real-world data analysis and dynamic dashboard reporting. It demonstrates strong analytical and business intelligence skills through practical use of Pivot Tables, Power Query, KPI visuals, and clean design.
 
 ---
-##  What’s Inside:
-i. Real-world datasets from diverse domains 
 
-ii. Robust dashboards leveraging advanced Pivot Tables, Power Query, dynamic formulas, and named ranges
+## 📌 **What’s Inside**
+- **Real-world datasets** from relevant domains.
+- **Interactive dashboards** leveraging advanced Pivot Tables, Power Query, dynamic formulas, and named ranges.
+- **Engaging visuals and KPI summaries** designed for decision-makers.
+- **Modular, clean Excel files** ready for corporate reporting and performance tracking.
 
-iii. Interactive visuals and KPI summaries tailored for decision-makers
+---
 
-iv. Clean, modular Excel files ready for adaptation in corporate reporting and performance tracking
+## ✅ **Projects Included**
 
-## Projects Included
+### **1️⃣ Call Center Performance Dashboard**
+- Transforms raw call log data into a clean, interactive dashboard.
+- Tracks key metrics like total calls, average wait time, and resolution rate.
+- Built with Pivot Tables, slicers, and conditional formatting for actionable insights.
 
-###  **Call Center Performance Dashboard
+### **2️⃣ HR Attrition Analysis Dashboard**
+- Analyzes employee attrition using real HR data.
+- Identifies key factors influencing staff turnover (e.g., distance from home, job role, satisfaction).
+- Features KPI cards, charts, and slicers for easy exploration.
+- Built with Power Query for data cleaning and dynamic visuals for stakeholder reporting.
 
-i. Transforms call log data into a clean, interactive dashboard
-	
-ii. Tracks key metrics like total calls, wait time, call resolution rate
-	
-iii. Built with Pivot Tables, slicers, and conditional formatting
+---
 
+## ⚙️ **Tools & Features Used**
+- Microsoft Excel (with Power Query & Pivot Tables)
+- Conditional Formatting to highlight trends and outliers
+- Dynamic slicers for interactivity
+- Chart visualizations: bar, line, pie, combo, KPI cards
 
-###  **Sales Analysis Report
+---
 
-i. Monthly and regional sales breakdown
-	
-ii. Highlights trends, top-performing products, and regions
-	
-iii. Designed for management reporting
+## 🎯 **Purpose**
+These projects reflect **professional-level Excel proficiency**, ideal for:
+- Stakeholder reporting
+- Operational monitoring
+- Strategic decision-making support
 
+They demonstrate readiness to work in **data-driven business environments** and add value through clear, impactful reporting.
 
-## Tools & Features Used
- 1. Microsoft Excel (with Power Query & Pivot Tables)
+---
 
- 2. Conditional Formatting for highlighting insights
-
- 3. Chart visualizations: bar, line, pie, combo e.t.c.
-
- 4. Dynamic slicers for interactivity
-    
-
-## These projects reflect professional-level Excel proficiency, ideal for:
-
-1. Stakeholder reporting
-
-2. Operational monitoring
-
-3. Strategic decision-making support
-
-4. Showcasing readiness for data-driven business environments and more
+📌 **More projects coming soon!**
 
