@@ -1,11 +1,11 @@
- Get-Together Event Summary Dashboard (Microsoft Excel)
- Problem Statement
+📊 Get-Together Event Summary Dashboard (Microsoft Excel)
+🧠 Problem Statement
 
 Event planning often involves multiple expense categories, donations, and cost allocations that can easily become overwhelming without proper tracking. After organizing a get-together party, I realized the importance of managing costs, understanding expense distribution, and comparing actual spending against the budget.
 
 This dashboard was designed to visualize these insights and demonstrate how Microsoft Excel can be used for effective event financial analysis and reporting.
 
- Objectives
+🎯 Objectives
 
 This project was designed to:
 
@@ -20,94 +20,3 @@ Identify top cost drivers and expense categories
 Build an interactive dashboard with month-based filtering
 
 Present insights using a clean, storytelling-driven visual layout
-
- Dataset Information
-
-Source: Personal event expense tracker (self-collected data)
-
-Format: Excel table
-
-Rows: Approximately 80 transaction records
-
-Columns:
-
-Category
-
-Item
-
-Cost
-
-Budget
-
-Month
-
-Donation Type
-
-Guest Count
-
- Tools & Techniques
-
-Microsoft Excel: Dashboard design and visualization
-
-Slicers: Month-based filtering
-
-Design Techniques:
-
-Color-coded KPI cards
-
-Doughnut charts
-
-Category icons
-
- Dashboard Highlights
-KPI Cards
-
-₦2.5m Total Expenses
-
-250 Invited Guests
-
-₦1.7m Donations
-
-₦10k Cost per Guest
-
-Charts & Visuals
-
-Bar chart showing the Top 10 Expense Categories
-
-Doughnut chart comparing Budgeted vs Actual Expenses
-
-Pie chart showing Donation Distribution by Type (Cash, Gift, Services)
-
-Category-wise expense percentage visuals with custom icons
-(Attire, Catering, Legal, Printing, Venue)
-
- Insights & Findings
-1️⃣ Budget Utilization
-
-Total actual spending reached ₦2.5m against a ₦3m budget, indicating strong cost control.
-
-2️⃣ Top Expense Categories
-
-Hall and Logistics & Services were the highest cost drivers.
-
-Food-related expenses (meat, rice, oil, spices) accounted for a significant share of total costs.
-
-3️⃣ Donations
-
-Cash donations made up 84% of total contributions, providing strong liquidity.
-
-Non-cash donations (gifts and services) accounted for 16%, helping reduce overall cost pressure.
-
-4️⃣ Cost Efficiency
-
-The average cost per guest was approximately ₦10,000, which is reasonable for a 250-person event.
-
-5️⃣ Category Analysis
-
-Venue (32%) and Attire (30%) consumed the largest portions of the budget.
-
-Legal and Printing expenses had minimal impact, each contributing less than 5%.
-
- Key Takeaway
-
-This project demonstrates how Microsoft Excel can be leveraged beyond basic spreadsheets to deliver meaningful financial insights for real-life events through structured data, interactive filters, and well-designed dashboards.
