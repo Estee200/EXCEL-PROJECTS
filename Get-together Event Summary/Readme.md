@@ -1,4 +1,4 @@
-## the dashboard is a very good one and it portrays the summary of the even i organised
+
 
 # 📌 Get-Together Event Summary Dashboard Using Microsoft Excel
 
