@@ -14,12 +14,29 @@ This repository showcases **professional Excel projects** focused on real-world 
 
 ## ✅ **Projects Included**
 
-### **1️⃣ Call Center Performance Dashboard**
+### **1️⃣ Wall Bills Financial Dashboard**
+This project was designed to:
+- To Cleaned and prepared real-world corporate financial data
+-	Understand how revenue is distributed across payment channels and banks
+-	Track transaction volume and value over time
+-	Identify weekly and monthly revenue patterns
+-	Reveal the highest contributing channel
+
+
+### **2️⃣ Get-together Event Summary Dashboard**
+This project was designed to:
+- Track total expenses, donations, and guest-related costs in one place
+- Compare actual spending versus budgeted amounts across major categories
+- Analyze donation types and contributions (cash, gifts, and services)
+- Identify top cost drivers and expense categories
+
+  
+### **3️⃣ Call Center Performance Dashboard** 
 - Transforms raw call log data into a clean, interactive dashboard.
 - Tracks key metrics like total calls, average wait time, and resolution rate.
 - Built with Pivot Tables, slicers, and conditional formatting for actionable insights.
 
-### **2️⃣ HR Attrition Analysis Dashboard**
+### **4️⃣ HR Attrition Analysis Dashboard**
 - Analyzes employee attrition using real HR data.
 - Identifies key factors influencing staff turnover (e.g., distance from home, job role, satisfaction).
 - Features KPI cards, charts, and slicers for easy exploration.
