@@ -1,13 +1,13 @@
-#  Get-Together Event Summary Dashboard (Microsoft Excel)
+# 📊 Get-Together Event Summary Dashboard (Microsoft Excel)
 
-##  Problem Statement
+## 🧠 Problem Statement
 Event planning often involves multiple expense categories, donations, and cost allocations that can easily become overwhelming without proper tracking. After organizing a get-together party, I realized the importance of managing costs, understanding expense distribution, and comparing actual spending against the budget.
 
 This dashboard was designed to visualize these insights and showcase how Microsoft Excel can be used for event financial analysis and reporting.
 
 ---
 
-##  Objectives
+## 🎯 Objectives
 This project was designed to:
 
 - Track total expenses, donations, and guest-related costs in one place
@@ -35,7 +35,7 @@ This project was designed to:
 
 ---
 
-##  Tools & Techniques
+## 🔧 Tools & Techniques
 
 - **Microsoft Excel:** Dashboard design and visualization
 - **Slicers:** Month-based filtering
@@ -46,7 +46,7 @@ This project was designed to:
 
 ---
 
-##  Dashboard Highlights
+## 📊 Dashboard Highlights
 
 ### KPI Cards
 - ₦2.5m Total Expenses  
@@ -63,7 +63,7 @@ This project was designed to:
 
 ---
 
-##  Insights & Findings
+## 🧠 Insights & Findings
 
 ### 1️⃣ Budget Utilization
 - Total actual spending reached ₦2.5m against a ₦3m budget, indicating strong cost control.
