@@ -1,13 +1,13 @@
-# 📌 HR Attrition Analysis Dashboard Using Excel & Power Query
+#  HR Attrition Analysis Dashboard Using Excel & Power Query
 
-## 🧠 Problem Statement
+##  Problem Statement
 
 Employers often overlook the hidden reasons behind rising attrition rates — from low pay and long commutes to poor job satisfaction and work conditions. Today, employees switch jobs faster than ever, driving up recruitment costs and disrupting teams.  
 To shed light on this, I analyzed a real-world HR dataset from Kaggle, exploring the key drivers of attrition in a company of 1,470 staff. This project reveals where HR leaders should focus to reduce turnover and keep talent.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 This project was designed to:
 
@@ -19,7 +19,7 @@ This project was designed to:
 
 ---
 
-## 🗂️ Dataset Information
+##  Dataset Information
 
 - **Source:** [Kaggle Dataset](https://www.kaggle.com/datasets/saadharoon27/hr-analytics-dataset)
 - **Format:** CSV
@@ -29,7 +29,7 @@ This project was designed to:
 
 ---
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 
 - **Microsoft Excel:** Dashboard design and visualization
 - **Power Query:** Data cleaning, transformation & column creation
@@ -38,7 +38,7 @@ This project was designed to:
 
 ---
 
-## ⚙️ Data Cleaning & Transformation (Power Query)
+##  Data Cleaning & Transformation (Power Query)
 
 **Dropped columns:** redundant, constant, or identifiers with little value:
 
@@ -68,7 +68,7 @@ This project was designed to:
 
 ---
 
-## 📊 Dashboard Highlights
+##  Dashboard Highlights
 
 **Key features and visuals include:**
 
@@ -99,16 +99,16 @@ This project was designed to:
 
 ---
 
-## 🔍 Data Exploration & Insights
+##  Data Exploration & Insights
 
-### 📌 KPI Cards: Insight
+###  KPI Cards: Insight
 
 - A moderate attrition rate (~16%) suggests the organization needs targeted retention strategies.
 - Leavers have an average experience of 7 years — valuable employees are exiting.
 
 ---
 
-### 💼 Job Roles with Highest Attrition
+###  Job Roles with Highest Attrition
 
 **Insight:**
 
@@ -118,7 +118,7 @@ This project was designed to:
 
 ---
 
-### 🗺️ Department-Age Attrition Heatmap (R&D Focus)
+###  Department-Age Attrition Heatmap (R&D Focus)
 
 **Insights:**
 
@@ -127,7 +127,7 @@ This project was designed to:
 
 ---
 
-### 💰 Does Low Salary Contribute to Attrition?
+###  Does Low Salary Contribute to Attrition?
 
 **Insights:**
 
@@ -137,7 +137,7 @@ This project was designed to:
 
 ---
 
-### 😊 Job Satisfaction Rating of Leavers
+###  Job Satisfaction Rating of Leavers
 
 **Insights:**
 
@@ -147,7 +147,7 @@ This project was designed to:
 
 ---
 
-### ⏰ Overtime Analysis
+###  Overtime Analysis
 
 **Insights:**
 
@@ -157,7 +157,7 @@ This project was designed to:
 
 ---
 
-### 🚗 Salary vs Distance from Home
+###  Salary vs Distance from Home
 
 **Insights:**
 
@@ -167,7 +167,7 @@ This project was designed to:
 
 ---
 
-### 💍 Marital Status % by Attrition
+###  Marital Status % by Attrition
 
 **Insights:**
 
@@ -177,7 +177,7 @@ This project was designed to:
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 - **Lab Technicians** showed the highest attrition.
 - Employees aged **24–26** were most likely to leave.
@@ -188,7 +188,7 @@ This project was designed to:
 
 ---
 
-## 🔁 Recommendations
+##  Recommendations
 
 - Target **Lab Techs** and **Sales Staff** with tailored retention programs (mentorship, better hours, career growth).
 - Improve onboarding and engagement for employees aged **24–26**.
