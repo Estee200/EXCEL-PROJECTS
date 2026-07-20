@@ -15,32 +15,65 @@ This repository showcases **professional Excel projects** focused on real-world 
 ## ✅ **Projects Included**
 
 ### **1️⃣ Wall Bills Financial Dashboard**
-This project was designed to:
-- To Cleaned and prepared real-world corporate financial data
--	Understand how revenue is distributed across payment channels and banks
--	Track transaction volume and value over time
--	Identify weekly and monthly revenue patterns
--	Reveal the highest contributing channel
+### Business Problem
+
+Payment businesses process thousands of transactions daily, making it difficult to monitor revenue performance, payment channels, transaction fees, and banking activity. This dashboard provides an executive view of transaction performance to support financial monitoring and operational decision-making.
+
+<p align="center">
+  <img src="https://github.com/Estee200/EXCEL-PROJECTS/blob/main/Digital%20Payment%20Revenue%20Analysis/Wall%20Bills%20Dashboard.jpg?raw=true" alt="Call Center Dashboard" width="500">
+</p>
+
+**Tools Used:** Excel • Power Query • Pivot Tables • Dashboard Design
+
+
+<p align="center">
+  <a href="https://github.com/Estee200/EXCEL-PROJECTS/tree/main/Digital%20Payment%20Revenue%20Analysis">Read Full Case Study →</a>
+</p>
 
 
 ### **2️⃣ Get-together Event Summary Dashboard**
-This project was designed to:
-- Track total expenses, donations, and guest-related costs in one place
-- Compare actual spending versus budgeted amounts across major categories
-- Analyze donation types and contributions (cash, gifts, and services)
-- Identify top cost drivers and expense categories
+### Business Problem
+
+Managing event finances manually makes it difficult to monitor budgets, donations, and expenses. This dashboard provides a centralized view of event income and expenditure, helping organizers maintain financial control throughout the event lifecycle.
+
+<p align="center">
+  <img src="https://github.com/Estee200/EXCEL-PROJECTS/blob/main/Event%20Budget%20&%20Expense%20Tracker/The%20Dashboard.jpg?raw=true" alt="Call Center Dashboard" width="500">
+</p>
+
+**Tools Used:** Excel • Power Query • Pivot Tables • Financial Reporting
+
+<p align="center">
+  <a href="https://github.com/Estee200/EXCEL-PROJECTS/tree/main/Event%20Budget%20&%20Expense%20Tracker">Read Full Case Study →</a>
+</p>
 
   
 ### **3️⃣ Call Center Performance Dashboard** 
-- Transforms raw call log data into a clean, interactive dashboard.
-- Tracks key metrics like total calls, average wait time, and resolution rate.
-- Built with Pivot Tables, slicers, and conditional formatting for actionable insights.
+### Business Problem
+
+Customer service managers need visibility into agent productivity, service quality, and call performance. This dashboard tracks operational KPIs to identify improvement opportunities and support better workforce management.
+<p align="center">
+  <img src="https://github.com/Estee200/EXCEL-PROJECTS/blob/main/Call%20Center%20Performance%20Insight/Call%20Center%20Dashboard.jpg?raw=true" alt="Call Center Dashboard" width="500">
+</p>
+
+**Tools Used:** Excel • Pivot Tables • Pivot Charts • KPI Reporting
+
+<p align="center">
+  <a href="https://github.com/Estee200/EXCEL-PROJECTS/tree/main/Call%20Center%20Performance%20Insight">Read Full Case Study →</a>
+</p>
 
 ### **4️⃣ HR Attrition Analysis Dashboard**
-- Analyzes employee attrition using real HR data.
-- Identifies key factors influencing staff turnover (e.g., distance from home, job role, satisfaction).
-- Features KPI cards, charts, and slicers for easy exploration.
-- Built with Power Query for data cleaning and dynamic visuals for stakeholder reporting.
+### Business Problem
+
+Employee turnover can significantly impact productivity and increase recruitment costs. This dashboard analyzes workforce demographics and attrition trends to help HR teams identify key drivers of employee exits and improve retention strategies.
+
+<p align="center">
+  <img src="https://github.com/Estee200/EXCEL-PROJECTS/blob/main/HR%20Attrition%20Analysis/HR%20Attrition%20Dashboard.jpg?raw=true" alt="Call Center Dashboard" width="500">
+</p>
+
+**Tools Used:** Excel • Power Query • Pivot Tables • HR Analytics
+<p align="center">
+  <a href="https://github.com/Estee200/EXCEL-PROJECTS/tree/main/HR%20Attrition%20Analysis">Read Full Case Study →</a>
+</p>
 
 ---
 
