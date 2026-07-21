@@ -98,7 +98,6 @@ Employee turnover can significantly impact productivity and increase recruitment
 - Dynamic slicers for interactivity
 - Chart visualizations: bar, line, pie, combo, KPI cards
 
----
 
 ##  **Purpose**
 These projects reflect **professional-level Excel proficiency**, ideal for:
@@ -108,7 +107,6 @@ These projects reflect **professional-level Excel proficiency**, ideal for:
 
 They demonstrate readiness to work in **data-driven business environments** and add value through clear, impactful reporting.
 
----
 
  **More projects coming soon!**
 
