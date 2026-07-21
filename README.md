@@ -19,6 +19,9 @@ This repository showcases **professional Excel projects** focused on real-world 
 
 Used car buyers and dealers often lack clear visibility into pricing trends, vehicle specifications, and market preferences. This dashboard analyzes the Nigerian used car market to uncover insights into pricing, popular brands, transmission types, and vehicle characteristics for better decision-making.
 
+<p align="center">
+  <img src="https://github.com/Estee200/EXCEL-PROJECTS/blob/main/Nigerian%20Car%20Market%20Analysis/Car%20Sales%20Insight.png?raw=true" alt="Wall Bills Dashboard" width="500">
+</p>
 **Tools Used:** Excel • Power Query • Pivot Tables • Pivot Charts • Dashboard Design
 
 ➡️ **[Read Full Case Study](./Nigerian%20Car%20Market%20Analysis/README.md)**
@@ -87,7 +90,7 @@ Employee turnover can significantly impact productivity and increase recruitment
 
 ---
 
-## ⚙️ **Tools & Features Used**
+##  **Tools & Features Used**
 - Microsoft Excel (with Power Query & Pivot Tables)
 - Conditional Formatting to highlight trends and outliers
 - Dynamic slicers for interactivity
@@ -95,7 +98,7 @@ Employee turnover can significantly impact productivity and increase recruitment
 
 ---
 
-## 🎯 **Purpose**
+##  **Purpose**
 These projects reflect **professional-level Excel proficiency**, ideal for:
 - Stakeholder reporting
 - Operational monitoring
@@ -105,5 +108,5 @@ They demonstrate readiness to work in **data-driven business environments** and 
 
 ---
 
-📌 **More projects coming soon!**
+ **More projects coming soon!**
 
