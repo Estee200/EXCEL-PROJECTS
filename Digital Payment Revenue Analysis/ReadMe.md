@@ -1,5 +1,8 @@
 #  Wall Bills Africa Limited Financial Performance Dashboard
 
+#### Overview
+<img src="https://github.com/Estee200/EXCEL-PROJECTS/blob/main/Digital%20Payment%20Revenue%20Analysis/Wall%20Bills%20Dashboard.jpg?raw=true" width="800">
+
 ## Project Overview
 
 This project analyzes payment transactions processed through Wall Bills Africa Limited to provide management with an interactive financial dashboard for monitoring transaction performance, revenue generation, banking channels, and payment trends.
