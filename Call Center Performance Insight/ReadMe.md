@@ -1,3 +1,9 @@
+# CALL CENTER PERFORMANCE INSIGHT
+
+<p align="center">
+<img src="https://github.com/Estee200/EXCEL-PROJECTS/blob/main/Call%20Center%20Performance%20Insight/Call%20Center%20Dashboard.jpg?raw=true" width="600">
+</p>
+
 ## PROBLEM STATEMENT
 
 Collecting call data is an easy procedure for many organizations, however, the data is stored in spreadsheets and is not readily accessible for interpretation. Business executives require a way to track performance, find bottlenecks, and act in an efficient manner visually. The Excel dashboard provided in this solution renders call logs into a decision-making management tool.
