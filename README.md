@@ -22,6 +22,7 @@ Used car buyers and dealers often lack clear visibility into pricing trends, veh
 <p align="center">
   <img src="https://github.com/Estee200/EXCEL-PROJECTS/blob/main/Nigerian%20Car%20Market%20Analysis/Car%20Sales%20Insight.png?raw=true" alt="Nigerian Car Sales Dashboard" width="600">
 </p>
+
 **Tools Used:** Excel • Power Query • Pivot Tables • Pivot Charts • Dashboard Design
 
 <p align="center">
