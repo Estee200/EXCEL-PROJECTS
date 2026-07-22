@@ -1,7 +1,7 @@
 #  Nigerian Car Market Analysis Dashboard
 
 <p align="center">
-  <img src="https://github.com/Estee200/EXCEL-PROJECTS/blob/main/Nigerian%20Car%20Market%20Analysis/Car%20Sales%20Insight.png" width="800">
+  <img src="https://github.com/Estee200/EXCEL-PROJECTS/blob/main/Nigerian%20Car%20Market%20Analysis/Car%20Sales%20Insight.png" width="600">
 </p>
 
 ##  Project Overview
