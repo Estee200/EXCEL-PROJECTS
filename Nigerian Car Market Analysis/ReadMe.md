@@ -1,5 +1,9 @@
 #  Nigerian Car Market Analysis Dashboard
 
+<p align="center">
+  <img src="https://github.com/Estee200/EXCEL-PROJECTS/blob/main/Nigerian%20Car%20Market%20Analysis/Car%20Sales%20Insight.png" width="800">
+</p>
+
 ##  Project Overview
 
 This project analyzes the Nigerian automobile market using vehicle listing data to uncover pricing trends, vehicle characteristics, and consumer preferences. The dashboard provides an interactive overview of the market, helping potential buyers, dealerships, and business stakeholders understand how vehicle prices, mileage, engine specifications, transmission types, and brands vary across Nigeria.
