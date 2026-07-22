@@ -1,5 +1,10 @@
 #  HR Attrition Analysis Dashboard Using Excel & Power Query
 
+<p align="center">
+  <img src="https://github.com/Estee200/EXCEL-PROJECTS/blob/main/HR%20Attrition%20Analysis/HR%20Attrition%20Dashboard.jpg?raw=true" width ="600">
+  </p>
+
+
 ##  Problem Statement
 
 Employers often overlook the hidden reasons behind rising attrition rates — from low pay and long commutes to poor job satisfaction and work conditions. Today, employees switch jobs faster than ever, driving up recruitment costs and disrupting teams.  
