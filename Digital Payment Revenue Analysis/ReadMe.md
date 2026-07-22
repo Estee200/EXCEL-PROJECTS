@@ -1,7 +1,7 @@
 #  Wall Bills Africa Limited Financial Performance Dashboard
 
 <p align="center">
-<img src="https://github.com/Estee200/EXCEL-PROJECTS/blob/main/Digital%20Payment%20Revenue%20Analysis/Wall%20Bills%20Dashboard.jpg?raw=true" width="500">
+<img src="https://github.com/Estee200/EXCEL-PROJECTS/blob/main/Digital%20Payment%20Revenue%20Analysis/Wall%20Bills%20Dashboard.jpg?raw=true" width="600">
 </p>  
 
 ## Project Overview
