@@ -1,7 +1,8 @@
-
-
 #  Get-Together Event Summary Dashboard Using Microsoft Excel
-
+<p align="center">
+ <img src="https://github.com/Estee200/EXCEL-PROJECTS/blob/main/Event%20Budget%20&%20Expense%20Tracker/The%20Dashboard.jpg?raw=true" width="500">
+<p/>
+  
 ##  Problem Statement
 
 Event planning often involves multiple expense categories, donations, and cost allocations that can easily become overwhelming without proper tracking.  
