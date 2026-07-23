@@ -1,1 +1,149 @@
-f
+#  Sales Performance Dashboard (2024–2025)
+
+<p align="center">
+  <img src=" https://github.com/Estee200/EXCEL-PROJECTS/blob/main/E-Commerce%20Sales%20Performance%20Insight/E-commerce%20Insight.png" width="600">
+</p>
+
+##  Project Overview
+
+This project presents an interactive **Sales Performance Dashboard** built in Microsoft Excel to analyze sales, profitability, regional performance, and product trends across two financial years (2024–2025).
+
+The dashboard transforms transactional sales data into actionable business insights, enabling decision-makers to monitor KPIs, compare yearly performance, identify top-performing products, and evaluate regional sales distribution.
+
+---
+
+##  Business Problem
+
+Sales information was stored as raw transactional records, making it difficult to monitor business performance, compare year-over-year growth, identify profitable products, and evaluate regional sales trends.
+
+Management required a centralized dashboard that could provide a clear view of sales performance and support better business decisions.
+
+---
+
+##  Dataset
+
+The dataset contains sales transactions captured between **2024 and 2025**, including:
+
+- Date
+- Product
+- Category
+- Region
+- Sales
+- Quantity Sold
+- Cost
+
+From these fields, additional business metrics such as **Profit** and Year-over-Year comparisons were derived for reporting.
+
+---
+
+##  Data Preparation
+
+The raw dataset was transformed using **Power Query**, where data quality checks and standardization were performed before loading into Excel.
+
+Preparation included:
+
+- Cleaning inconsistent values
+- Formatting dates
+- Creating calculated columns
+- Structuring the data for Pivot Tables
+- Building reusable reporting tables
+
+---
+
+##  Dashboard Features
+
+The dashboard provides decision-makers with an interactive overview of business performance through:
+
+### Executive KPIs
+
+- Total Sales
+- Total Quantity Sold
+- Total Cost
+- Total Profit
+- Year-over-Year KPI comparison
+
+### Revenue Trend Analysis
+
+Visualizes monthly sales performance for **2024 vs 2025**, making seasonal trends and revenue growth easy to identify.
+
+### Regional Sales Distribution
+
+Compares sales performance across different business regions to identify high-performing markets.
+
+### Product Performance
+
+Ranks products based on generated sales, helping management identify best-selling and underperforming products.
+
+### Interactive Filtering
+
+Users can dynamically filter the report by:
+
+- Product Category
+- Reporting Year
+
+---
+
+##  Key Business Insights
+
+- Sales increased significantly in 2025 compared to 2024, indicating positive business growth.
+- Monitor and Mouse generated the highest sales revenue across the reporting period.
+- Southern and Eastern regions contributed the largest share of total sales.
+- Monthly trends reveal clear seasonal fluctuations that can support future inventory and marketing planning.
+- Interactive filtering allows managers to evaluate performance by product category and reporting year.
+
+---
+
+##  Business Value
+
+This dashboard enables management to:
+
+- Monitor overall business performance
+- Compare yearly sales growth
+- Identify high-performing products
+- Evaluate regional performance
+- Support pricing and inventory planning
+- Improve data-driven decision-making
+
+---
+
+##  Dashboard Preview
+
+> *(Insert dashboard screenshot here)*
+
+```markdown
+![Sales Performance Dashboard](images/dashboard.png)
+```
+
+---
+
+##  Skills Demonstrated
+
+- Financial Reporting
+- Sales Performance Analysis
+- KPI Reporting
+- Power Query (ETL)
+- Pivot Tables
+- Dashboard Design
+- Interactive Reporting
+- Business Intelligence
+- Data Storytelling
+
+---
+
+##  Project Summary
+
+This project simulates a real-world sales reporting solution by transforming raw sales transactions into an executive dashboard that tracks revenue, profitability, regional performance, and product trends. Using Excel's Power Query, Pivot Tables, and interactive visualizations, the report provides stakeholders with a centralized view of business performance and supports faster, data-driven decision-making.
+
+---
+
+##  Author
+
+**Esther Nweze**
+
+- Financial BI Analyst
+- Chartered Accountant (ICAN ACA)
+
+**Portfolio:** https://esthernweze.carrd.co/
+
+**LinkedIn:** https://linkedin.com/in/estherinweze
+
