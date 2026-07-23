@@ -62,6 +62,19 @@ Managing event finances manually makes it difficult to monitor budgets, donation
   <a href="https://github.com/Estee200/EXCEL-PROJECTS/tree/main/Event%20Budget%20&%20Expense%20Tracker">Read Full Case Study →</a>
 </p>
 
+### **3️⃣ Sales Performance Dashboard (2024–2025)**
+### Business Problem
+Sales information was stored as raw transactional records, making it difficult to monitor business performance, compare year-over-year growth, identify profitable products, and evaluate regional sales trends.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Estee200/EXCEL-PROJECTS/main/E-Commerce%20Sales%20Performance%20Insight/E-commerce%20Insight.png" width="700"/>
+</p>
+
+**Tools Used:** Excel • Power Query • Pivot Tables • Financial Reporting
+
+<p align="center">
+  <a href="https://github.com/Estee200/EXCEL-PROJECTS/tree/main/Event%20Budget%20&%20Expense%20Tracker">Read Full Case Study →</a>
+</p>
   
 ### **4️⃣ Call Center Performance Dashboard** 
 ### Business Problem
