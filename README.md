@@ -62,7 +62,7 @@ Managing event finances manually makes it difficult to monitor budgets, donation
   <a href="https://github.com/Estee200/EXCEL-PROJECTS/tree/main/Event%20Budget%20&%20Expense%20Tracker">Read Full Case Study →</a>
 </p>
 
-### **3️⃣ Sales Performance Dashboard (2024–2025)**
+### **4️⃣ Sales Performance Dashboard (2024–2025)**
 ### Business Problem
 Sales information was stored as raw transactional records, making it difficult to monitor business performance, compare year-over-year growth, identify profitable products, and evaluate regional sales trends.
 
@@ -73,10 +73,10 @@ Sales information was stored as raw transactional records, making it difficult t
 **Tools Used:** Excel • Power Query • Pivot Tables • Financial Reporting
 
 <p align="center">
-  <a href="https://github.com/Estee200/EXCEL-PROJECTS/tree/main/Event%20Budget%20&%20Expense%20Tracker">Read Full Case Study →</a>
+  <a href="https://github.com/Estee200/EXCEL-PROJECTS/tree/main/E-Commerce%20Sales%20Performance%20Insight">Read Full Case Study →</a>
 </p>
   
-### **4️⃣ Call Center Performance Dashboard** 
+### **5️⃣ Call Center Performance Dashboard** 
 ### Business Problem
 
 Customer service managers need visibility into agent productivity, service quality, and call performance. This dashboard tracks operational KPIs to identify improvement opportunities and support better workforce management.
@@ -90,7 +90,7 @@ Customer service managers need visibility into agent productivity, service quali
   <a href="https://github.com/Estee200/EXCEL-PROJECTS/tree/main/Call%20Center%20Performance%20Insight">Read Full Case Study →</a>
 </p>
 
-### **5️⃣ HR Attrition Analysis Dashboard**
+### **6️⃣ HR Attrition Analysis Dashboard**
 ### Business Problem
 
 Employee turnover can significantly impact productivity and increase recruitment costs. This dashboard analyzes workforce demographics and attrition trends to help HR teams identify key drivers of employee exits and improve retention strategies.
